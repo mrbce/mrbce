@@ -2,7 +2,7 @@
 
 ### Here's some things about me:
 - ✍️ I’m currently working on creating a portfolio
-- 📚 I’m teaching myself front-end development
+- 📚 I’m teaching myself back-end development
 - 🏃‍♂️ I’m looking to become much more active on Github and StackOverflow
 - 😄 Pronouns: He / Him
 - 🤪 Fun fact: I was Vegetarian for about 6 months (sorry animals!)
